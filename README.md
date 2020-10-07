@@ -9,3 +9,7 @@ kelvin celcius a çevrildi
 ## 2.adım
 
 celcius fahrenneit a çevrildi
+
+## 3.adım
+
+consola bastık ve prompt alert newton falan filan ekledik
